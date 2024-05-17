@@ -221,7 +221,7 @@ else
 	B64=`uname -m | grep -c 64`
 	if [ "$B64" -gt 0 ]; then
 		echo "*** 64-bit OS ***";
-		echo "*** SCRIPT INSTALL DA 1.62.4 NULLED BY GIAPPHAM ***";
+		echo "*** SCRIPT INSTALL DA 1.62.4 NULLED BY NguyenLP ***";
 		sleep 2;
 		B64=1
 	fi
@@ -513,7 +513,7 @@ else
 	echo "*****************************************************";
 	echo "*";
 	echo "* DirectAdmin NULLED 1.62.4:";
-	echo "*   https://www.facebook.com/giapphamofficial/";
+	echo "*   https://www.facebook.com/NguyenLP121/";
 	echo "*";	
 
 	echo "*";
